@@ -120,6 +120,7 @@
 | [1260-shift-2d-grid](https://github.com/aashish2024-oss/DSA/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ashishkuniyal/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/aashish2024-oss/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashishkuniyal/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ashishkuniyal/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1436-destination-city](https://github.com/ashishkuniyal/DSA/tree/master/1436-destination-city) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aashish2024-oss/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -167,6 +168,7 @@
 | [0645-set-mismatch](https://github.com/ashishkuniyal/DSA/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/aashish2024-oss/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/aashish2024-oss/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashishkuniyal/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aashish2024-oss/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1859-sorting-the-sentence](https://github.com/ashishkuniyal/DSA/tree/master/1859-sorting-the-sentence) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aashish2024-oss/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -200,6 +202,7 @@
 | [1172-dinner-plate-stacks](https://github.com/ashishkuniyal/DSA/tree/master/1172-dinner-plate-stacks) |
 | [1207-unique-number-of-occurrences](https://github.com/ashishkuniyal/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/aashish2024-oss/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashishkuniyal/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/ashishkuniyal/DSA/tree/master/1436-destination-city) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aashish2024-oss/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aashish2024-oss/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -386,6 +389,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashishkuniyal/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aashish2024-oss/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## String Matching
 |  |
