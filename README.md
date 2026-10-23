@@ -12,6 +12,7 @@
 | [0189-rotate-array](https://github.com/ashishkuniyal/DSA/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/ashishkuniyal/DSA/tree/master/0258-add-digits) |
 | [0441-arranging-coins](https://github.com/ashishkuniyal/DSA/tree/master/0441-arranging-coins) |
+| [0509-fibonacci-number](https://github.com/ashishkuniyal/DSA/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/ashishkuniyal/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/aashish2024-oss/DSA/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ashishkuniyal/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -303,6 +304,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/ashishkuniyal/DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/aashish2024-oss/DSA/tree/master/0877-stone-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aashish2024-oss/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aashish2024-oss/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -444,6 +446,7 @@
 | [0203-remove-linked-list-elements](https://github.com/ashishkuniyal/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/aashish2024-oss/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ashishkuniyal/DSA/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/ashishkuniyal/DSA/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ashishkuniyal/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sliding Window
 |  |
@@ -497,4 +500,8 @@
 | [0225-implement-stack-using-queues](https://github.com/ashishkuniyal/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ashishkuniyal/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/ashishkuniyal/DSA/tree/master/0622-design-circular-queue) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ashishkuniyal/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
