@@ -14,6 +14,7 @@
 | [0258-add-digits](https://github.com/ashishkuniyal/DSA/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/ashishkuniyal/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ashishkuniyal/DSA/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/ashishkuniyal/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0441-arranging-coins](https://github.com/ashishkuniyal/DSA/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/ashishkuniyal/DSA/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/ashishkuniyal/DSA/tree/master/0836-rectangle-overlap) |
@@ -56,6 +57,7 @@
 | [0344-reverse-string](https://github.com/aashish2024-oss/DSA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/aashish2024-oss/DSA/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/ashishkuniyal/DSA/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/ashishkuniyal/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0424-longest-repeating-character-replacement](https://github.com/ashishkuniyal/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ashishkuniyal/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/ashishkuniyal/DSA/tree/master/0657-robot-return-to-origin) |
@@ -327,6 +329,7 @@
 | [0231-power-of-two](https://github.com/ashishkuniyal/DSA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/ashishkuniyal/DSA/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/ashishkuniyal/DSA/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/ashishkuniyal/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/ashishkuniyal/DSA/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ashishkuniyal/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aashish2024-oss/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
