@@ -155,6 +155,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ashishkuniyal/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ashishkuniyal/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ashishkuniyal/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2206-divide-array-into-equal-pairs](https://github.com/ashishkuniyal/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ashishkuniyal/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ashishkuniyal/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aashish2024-oss/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -229,6 +230,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashishkuniyal/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/ashishkuniyal/DSA/tree/master/1436-destination-city) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ashishkuniyal/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2206-divide-array-into-equal-pairs](https://github.com/ashishkuniyal/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aashish2024-oss/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aashish2024-oss/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ashishkuniyal/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -341,6 +343,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ashishkuniyal/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/ashishkuniyal/DSA/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ashishkuniyal/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2206-divide-array-into-equal-pairs](https://github.com/ashishkuniyal/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aashish2024-oss/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aashish2024-oss/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aashish2024-oss/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -358,6 +361,7 @@
 | [0169-majority-element](https://github.com/aashish2024-oss/DSA/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/aashish2024-oss/DSA/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/ashishkuniyal/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [2206-divide-array-into-equal-pairs](https://github.com/ashishkuniyal/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aashish2024-oss/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aashish2024-oss/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/aashish2024-oss/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
