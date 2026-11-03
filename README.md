@@ -27,6 +27,7 @@
 | [2119-a-number-after-a-double-reversal](https://github.com/ashishkuniyal/DSA/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/aashish2024-oss/DSA/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/ashishkuniyal/DSA/tree/master/2409-count-days-spent-together) |
+| [2652-sum-multiples](https://github.com/ashishkuniyal/DSA/tree/master/2652-sum-multiples) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aashish2024-oss/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aashish2024-oss/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aashish2024-oss/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
