@@ -141,6 +141,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ashishkuniyal/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/aashish2024-oss/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashishkuniyal/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ashishkuniyal/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ashishkuniyal/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1436-destination-city](https://github.com/ashishkuniyal/DSA/tree/master/1436-destination-city) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aashish2024-oss/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -196,6 +197,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/aashish2024-oss/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/aashish2024-oss/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashishkuniyal/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ashishkuniyal/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aashish2024-oss/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1859-sorting-the-sentence](https://github.com/ashishkuniyal/DSA/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ashishkuniyal/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -251,6 +253,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashishkuniyal/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/ashishkuniyal/DSA/tree/master/0441-arranging-coins) |
 | [1004-max-consecutive-ones-iii](https://github.com/ashishkuniyal/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ashishkuniyal/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ashishkuniyal/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aashish2024-oss/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aashish2024-oss/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -315,6 +318,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/ashishkuniyal/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/ashishkuniyal/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/aashish2024-oss/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ashishkuniyal/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2000-reverse-prefix-of-word](https://github.com/ashishkuniyal/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ashishkuniyal/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aashish2024-oss/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
