@@ -117,6 +117,7 @@
 | [0074-search-a-2d-matrix](https://github.com/ashishkuniyal/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ashishkuniyal/DSA/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/aashish2024-oss/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ashishkuniyal/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aashish2024-oss/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/aashish2024-oss/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ashishkuniyal/DSA/tree/master/0189-rotate-array) |
@@ -250,6 +251,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/aashish2024-oss/DSA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/ashishkuniyal/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ashishkuniyal/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aashish2024-oss/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ashishkuniyal/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/ashishkuniyal/DSA/tree/master/0349-intersection-of-two-arrays) |
