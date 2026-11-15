@@ -257,6 +257,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ashishkuniyal/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aashish2024-oss/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ashishkuniyal/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/ashishkuniyal/DSA/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/ashishkuniyal/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashishkuniyal/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/ashishkuniyal/DSA/tree/master/0441-arranging-coins) |
@@ -544,4 +545,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/ashishkuniyal/DSA/tree/master/0509-fibonacci-number) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/ashishkuniyal/DSA/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
