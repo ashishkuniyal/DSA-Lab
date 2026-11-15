@@ -549,4 +549,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/ashishkuniyal/DSA/tree/master/0278-first-bad-version) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/ashishkuniyal/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
